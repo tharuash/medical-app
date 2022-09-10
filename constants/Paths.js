@@ -1,0 +1,1 @@
+export const BACKGROUND_IMAGE_PATH = '../assets/BackgroundImage.png';
